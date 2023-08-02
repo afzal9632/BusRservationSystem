@@ -38,3 +38,32 @@ Update the port number, username and password as per your local database config.
     spring.datasource.username=root
     spring.datasource.password=root
 ```
+# API Root Endpoint
+```
+https://localhost:8888/
+```
+```
+http://localhost:8888/swagger-ui/
+```
+# API Module Endpoints
+## Login Module
+POST //login/admin : Admin can login with mobile number and password provided at the time of registation
+## Sample API Response for Admin Login
+POST   localhost:8888/login/admin
+
+- Request Body
+```
+{
+  "adminPassword": "Logintoadmin7643",
+  "mobileNumber": "7903661933"
+}
+```
+- Response
+```
+Response body
+{
+  "adminId": 4,
+  "uuid": "IJYhDn",
+  "dateTime": "2023-08-02T18:05:52.4142812"
+}
+```
