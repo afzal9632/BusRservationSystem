@@ -40,10 +40,10 @@ Update the port number, username and password as per your local database config.
 ```
 # API Root Endpoint
 ```
-https://localhost:8888/
+https://localhost:8880/
 ```
 ```
-http://localhost:8888/swagger-ui/
+http://localhost:8880/swagger-ui/
 ```
 # API Module Endpoints
 ## Login Module
@@ -68,3 +68,49 @@ Response body
 }
 ```
 # E-R Diagram Of Bus Application
+
+
+![E-R diagram](https://github.com/afzal9632/BusRservationSystem/assets/101742037/9fddd41e-6bc8-4d43-a4f4-f7b19a6b9c8b)
+
+# Swagger UI
+
+![swagger ui](https://github.com/afzal9632/BusRservationSystem/assets/101742037/660b14f1-c0d2-4dfd-bfea-5fb206ec6cbf)
+
+# Admin and Admin Login Controller
+
+![Admin-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/568fee49-772e-41c1-a7f9-57df1953c3ec)
+
+# User and User Login Controller
+
+![User-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/c7166232-810f-428e-84a0-1e6fad244786)
+
+# Route Controller
+
+![Route-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/2c6a751b-79be-4489-a506-10e7ffeb5a76)
+
+# Bus Controller
+
+![Bus-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/8a2965bc-c3ec-410f-88c0-3b434d4774fa)
+
+# Reservation Controller
+
+![Reservatation-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/62469e9c-d263-4cc2-b343-8d80938b74ca)
+
+# Feedback Controller
+
+![Feedback-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/3871a6a0-1237-4450-ae6c-12c328af0a77)
+
+
+# Thankyou for visiting our project
+
+
+
+
+
+
+
+
+
+
+
+
