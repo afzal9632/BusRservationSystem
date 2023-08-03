@@ -49,7 +49,7 @@ http://localhost:8888/swagger-ui/
 ## Login Module
 POST //login/admin : Admin can login with mobile number and password provided at the time of registation
 ## Sample API Response for Admin Login
-POST   localhost:8888/login/admin
+POST   localhost:8880/login/admin
 
 - Request Body
 ```
@@ -67,3 +67,4 @@ Response body
   "dateTime": "2023-08-02T18:05:52.4142812"
 }
 ```
+# E-R Diagram Of Bus Application
