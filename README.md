@@ -101,7 +101,7 @@ Response body
 ![Feedback-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/3871a6a0-1237-4450-ae6c-12c328af0a77)
 
 
-# Thankyou for visiting our project
+# Thankyou for visiting this project
 
 
 
