@@ -70,38 +70,46 @@ Response body
 # E-R Diagram Of Bus Application
 
 
-![E-R diagram](https://github.com/afzal9632/BusRservationSystem/assets/101742037/9fddd41e-6bc8-4d43-a4f4-f7b19a6b9c8b)
+![E-R diagram](https://github.com/afzal9632/BusRservationSystem/assets/101742037/5c53242e-9a78-4cdb-a6d1-c8d2a664596b)
+
 
 # Swagger UI
 
-![swagger ui](https://github.com/afzal9632/BusRservationSystem/assets/101742037/660b14f1-c0d2-4dfd-bfea-5fb206ec6cbf)
+![swagger ui](https://github.com/afzal9632/BusRservationSystem/assets/101742037/2419bbcb-b7b6-44ff-ba3e-3400022046a7)
+
 
 # Admin and Admin Login Controller
 
-![Admin-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/568fee49-772e-41c1-a7f9-57df1953c3ec)
+![Admin-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/c913f99d-b26c-4819-98a0-eadd8ef28cca)
+
 
 # User and User Login Controller
 
-![User-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/c7166232-810f-428e-84a0-1e6fad244786)
+![User-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/ea643be8-5c37-4468-bd9f-92c2896d94f7)
+
 
 # Route Controller
 
-![Route-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/2c6a751b-79be-4489-a506-10e7ffeb5a76)
+![Route-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/15c0ea2f-3fdb-48ae-99b7-ead14228d9ee)
+
 
 # Bus Controller
 
-![Bus-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/8a2965bc-c3ec-410f-88c0-3b434d4774fa)
+
+![Bus-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/50a6524f-491e-48a4-99ee-c7778d97c9c6)
 
 # Reservation Controller
 
-![Reservatation-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/62469e9c-d263-4cc2-b343-8d80938b74ca)
+
+![Reservatation-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/b19933f4-3450-49e7-8464-2e2e59a1b6d1)
 
 # Feedback Controller
 
-![Feedback-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/3871a6a0-1237-4450-ae6c-12c328af0a77)
+![Feedback-controller](https://github.com/afzal9632/BusRservationSystem/assets/101742037/7c2a8fdc-7a1f-41fc-af3e-13774bc9db6d)
 
 
 # Thankyou for visiting this project
+
 
 
 
